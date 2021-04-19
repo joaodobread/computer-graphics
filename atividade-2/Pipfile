@@ -6,6 +6,7 @@ name = "pypi"
 [packages]
 pyopengl = "*"
 pyopengl-accelerate = "*"
+numpy = "*"
 
 [dev-packages]
 autopep8 = "*"
